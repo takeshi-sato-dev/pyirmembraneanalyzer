@@ -22,7 +22,7 @@ authors:
 affiliations:
  - name: Kyoto Pharmaceutical University
    index: 1
-date: 01 December 2024
+date: 07 August, 2025
 bibliography: paper.bib
 ---
 
@@ -169,3 +169,5 @@ Key performance metrics:
 # Availability
 
 The software is available at: https://github.com/yourusername/pyirmembraneanalyzer
+
+# Archive: https://doi.org/10.5281/zenodo.16758554

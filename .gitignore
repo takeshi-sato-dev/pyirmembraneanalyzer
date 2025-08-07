@@ -1,0 +1,29 @@
+
+echo "# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Project specific
+results/
+*.png
+*.svg
+*.pdf
+# But keep figures for paper
+!figures/*.png" > .gitignore

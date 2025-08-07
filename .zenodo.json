@@ -1,0 +1,24 @@
+{
+    "title": "PyIRMembraneAnalyzer: Automated Analysis of Polarized ATR-FTIR Spectra",
+    "description": "Python package for automated analysis of polarized ATR-FTIR spectra to determine membrane protein orientation",
+    "creators": [
+        {
+            "name": "Sato, Takeshi",
+            "affiliation": "Kyoto Pharmaceutical University",
+            "orcid": "0009-0006-9156-8655"
+        },
+        {
+            "name": "Tamagaki-Asahina, Hiroko",
+            "affiliation": "Kyoto Pharmaceutical University"
+        }
+    ],
+    "keywords": [
+        "FTIR spectroscopy",
+        "membrane proteins",
+        "dichroic ratio",
+        "protein structure",
+        "biophysics"
+    ],
+    "license": "MIT",
+    "upload_type": "software"
+}

@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16758554.svg)](https://doi.org/10.5281/zenodo.16758554)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 Automated analysis of polarized ATR-FTIR spectra for membrane protein orientation determination.
 
@@ -23,7 +23,7 @@ PyIRMembraneAnalyzer is a Python tool for analyzing polarized attenuated total r
 
 ### Requirements
 
-- Python 3.7 or higher
+- Python 3.10 or higher
 - NumPy >= 1.19.0
 - SciPy >= 1.5.0
 - pandas >= 1.1.0
